@@ -1,4 +1,4 @@
-# typescript-node-project
+# typescript-node-express-project
 Typescript, Node js, Express js project creation
 
 Step1) download the project
